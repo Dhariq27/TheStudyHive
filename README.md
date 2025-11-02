@@ -33,7 +33,7 @@ A simple Java project using JDBC and MySQL for managing college data.
    private final String PASS = "your_password";
 
 4. Run the file [`LoginUI.java`](src/ui/LoginUI.java) to start the application.  
-   [▶️ Click here to view the demo video](https://drive.google.com/drive/folders/1kR0wsV33_jEtSdc9x6p3NN-2_I_aVtg2?usp=sharing)
+   [▶️ Click here to view the demo video](https://drive.google.com/drive/folders/1CcQJn_x-UOd2yDUqMx6jYAyfKuohwOfR?usp=drive_link)
 
    <p align="center">🙏 <b>Thank You for Visiting!</b> 🙏</p>)
 
